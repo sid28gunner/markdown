@@ -1,0 +1,46 @@
+Markdown is a lightweight formatting language which can be converted into HTML or writing comments in websites.
+
+Hello  
+
+**Hello**
+
+*Hello*
+
+~~Hello~~
+
+[google](https://www.google.co.in)
+
+![/c/](image address)
+
+<sup>2<sup>
+
+<sub>3</sub>
+
+```sh
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever
+since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+```
+>Hello
+
+#Header
+
+######Header
+
+***
+
+* Unordered list
+* List items
+  + Banana
+  + Apple
+  
+1. Ordered list
+2. List items
+  + Banana
+  + Apple
+  
+Table :  Go to http://www.tablesgenerator.com/markdown_tables#
+|   |   |   |   |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
